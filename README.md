@@ -1,16 +1,44 @@
-## Hi there 👋
+# Olá, eu sou o Carlysson! / Hi, I'm Carlysson! 👋
 
-<!--
-**OutlierFound/OutlierFound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="#-sobre-mim">🇧🇷 Português</a> • 
+  <a href="#-about-me">🇺🇸 English</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+    <a href="https://www.kaggle.com/carlysson" target="_blank">
+    <img src="https://shields.io" alt="Kaggle"/>
+  </a>
+</p>
+
+
+---
+
+
+## 🇧🇷 Sobre Mim
+> "Tentando fazer dar certo, pois se der errado, não será por falta de tentativas" 🧠
+
+
+- 🔭 Minha área de trabalho era na área de Administração.
+- 🌱 Realizando minha graduação em Ciência da Computação.
+
+
+### 🛠️ Habilidades e Tecnologias
+*   **Linguagens:** Python, até o momento
+
+
+---
+
+
+## 🇺🇸 About Me
+> "Trying to make it work, because if it goes wrong, it won't be for lack of trying" 🧠
+
+
+- 🔭 My work area was in the area of Administration
+- 🌱 Performing my bachelor's degree in Computer Science.
+
+
+### 🛠️ Skills and Technologies
+*   **Languages:** Python, so far
